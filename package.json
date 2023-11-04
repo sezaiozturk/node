@@ -1,0 +1,19 @@
+{
+  "name": "nodemodules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pcInfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "yarn nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4.0.0",
+    "nodemon": "^3.0.1",
+    "yargs": "15.3.1"
+  },
+  "devDependencies": {}
+}
