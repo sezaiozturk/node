@@ -3,7 +3,7 @@ const myPromise = new Promise((resolve, reject) => {
   setTimeout(() => {
     console.log("this process 3 seconds");
     resolve("success");
-    reject("failed");
+    //reject("failed");
   }, 3000);
 });
 
